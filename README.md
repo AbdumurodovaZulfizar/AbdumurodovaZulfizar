@@ -15,6 +15,7 @@
 
 ✉️ &nbsp;You can shoot me an email at `abdumurodovazulfizar77@gmail.com` I'll try to respond as soon as I can.
 
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 ### Front End
@@ -35,3 +36,5 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 - ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br>
+- ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)<br>
+- ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)<br>

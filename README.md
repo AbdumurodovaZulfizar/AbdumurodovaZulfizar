@@ -15,7 +15,7 @@
 
 ✉️ &nbsp;You can shoot me an email at `abdumurodovazulfizar77@gmail.com` I'll try to respond as soon as I can.
 
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 ### Front End

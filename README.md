@@ -1,4 +1,4 @@
-### Hi there 👋 I am _**Zulfizar Abdumurodova**_, softwere developer.
+# Hi there 👋 I am _**Zulfizar Abdumurodova**_, softwere developer.
 <img src="./Images/profile-img.jpg" alt="" style="width: 100%;">
 
 

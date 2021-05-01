@@ -1,9 +1,6 @@
 ### Hi there 👋 I am Zulfizar Abdumurodova, softwere developer.
+<img src="./Images/profile-img.jpg" alt="" style="width: 100%;">
 
-<!--
-**AbdumurodovaZulfizar/AbdumurodovaZulfizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- ## 👋 &nbsp;Hey there! I'm Zulfizar -->
 
 ### 👩 &nbsp;About Me
 
@@ -20,7 +17,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-###Front End
+### Front End
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br>
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;<br>

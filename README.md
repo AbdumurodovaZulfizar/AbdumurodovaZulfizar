@@ -5,7 +5,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Zulfizar -->
 
-### 👩🏻‍💻 &nbsp;About Me
+### 👩 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Softwere programming at Microverse.\
@@ -16,7 +16,7 @@
 - Twitter: [Zulfizar Abdumurodova](https://twitter.com/Zulfiza70357085)
 - LinkedIn: [Zulfizar Abdumurodova](https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/)
 
-✉️ &nbsp;You can shoot me an email at abdumurodovazulfizar77@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at abdumurodovazulfizar77@gmail.com I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack

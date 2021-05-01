@@ -1,8 +1,8 @@
-### Hi there 👋 I am Zulfizar Abdumurodova, softwere developer.
+### Hi there 👋 I am _**Zulfizar Abdumurodova**_, softwere developer.
 <img src="./Images/profile-img.jpg" alt="" style="width: 100%;">
 
 
-### 👩 &nbsp;About Me
+### 👩 &nbsp;**About Me**
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software programming at Microverse.\
@@ -17,21 +17,21 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
 
-### 🛠 &nbsp;Tech Stack
-### Front End
+### 🛠 &nbsp;**Tech Stack**
+### _Front End_
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)<br>
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;<br>
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)<br>
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
 
-### Back End
+### _Back End_
 
 - <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code><br>
 - <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code><br>
 - ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;<br>
 
-### Tools
+### _Tools_
 - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;<br>
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 - ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>

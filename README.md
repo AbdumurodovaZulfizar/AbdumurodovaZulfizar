@@ -11,11 +11,11 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 <h3 align="center">Get in touch with me on : </h3>
 <p align="center">
- <a href="https://github.com/AbdumurodovaZulfizar" target="_blank" rel="noopener noreferrer"> <img src="https://img2.freepng.ru/20180514/gae/kisspng-github-logo-repository-computer-icons-5afa376c2582d9.9650908015263476281537.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="abdumurodovazulfizar77@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://twitter.com/Zulfiza70357085"> <img src="https://www.pinclipart.com/picdir/middle/250-2508896_social-twitter-outline-svg-png-icon-free-download.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://t.me/abdumurodova_zulfizar"> <img src="https://i.pinimg.com/236x/79/c3/15/79c315509d714f25c500ede412d38de7.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/AbdumurodovaZulfizar" target="_blank" rel="noopener noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/github-square.png" alt="Python" height="43" style="vertical-align:top; margin:8px"> </a>
+ <a href="https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+ <a href="abdumurodovazulfizar77@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+ <a href="https://twitter.com/Zulfiza70357085"> <img src="https://iconape.com/wp-content/png_logo_vector/twitter-square-black-and-white-logo.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+ <a href="https://t.me/abdumurodova_zulfizar"> <img src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />

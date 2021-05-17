@@ -9,11 +9,14 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web development, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I enjoy reading books and solve coding chellages.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- GitHub: [Zulfizar Abdumurodova](https://github.com/AbdumurodovaZulfizar)
-- Twitter: [Zulfizar Abdumurodova](https://twitter.com/Zulfiza70357085)
-- LinkedIn: [Zulfizar Abdumurodova](https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/)
-
-✉️ &nbsp;You can shoot me an email at `abdumurodovazulfizar77@gmail.com` I'll try to respond as soon as I can.
+<h3 align="center">Get in touch with me on : </h3>
+<p align="center">
+ <a href="https://github.com/AbdumurodovaZulfizar" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/zulfizar-abdumurodova-a61527206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="abdumurodovazulfizar77@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/Zulfiza70357085"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYqUGL7rJvvmDHvEachwrv3G3MeFGrCkTbg&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://t.me/abdumurodova_zulfizar"> <img src="https://www.hostapk.com/wp-content/uploads/2019/08/Plus-Messenger-300x300.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
 

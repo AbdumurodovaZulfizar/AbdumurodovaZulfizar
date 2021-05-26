@@ -22,24 +22,24 @@
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
+ ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
 
 ### _Back End_
 
-- <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
-- <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code>
-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;<br>
+ <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
+ <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code>
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;<br>
 
 ### _Tools_
-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-- ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-- ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)<br>
+ ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+ ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+ ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)<br>
 <p align="right">
 
 ![Zulfizar's TOP languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdumurodovaZulfizar&theme=tokyonight)

@@ -19,12 +19,15 @@
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
-![](https://visitor-badge.laobi.icu/badge?page_id=AbdumurodovaZulfizar.AbdumurodovaZulfizar)
-![[Github](https://img.shields.io/github/followers/AbdumurodovaZulfizar?label=Follow&style=social)](https://github.com/AbdumurodovaZulfizar)
+<h2 align="left">Github stats :bar_chart:</h1>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<p align="left">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
+</p>
+<p align="left">
+  ![Zulfizar's TOP languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdumurodovaZulfizar&theme=tokyonight)
+</p>
 
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_

@@ -1,4 +1,4 @@
-# Hi there 👋 I am **Zulfizar Abdumurodova**, softwere developer.
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am **Zulfizar Abdumurodova**, softwere developer.
 <img src="./Images/profile-img.jpg" alt="" style="width: 100%;">
 
 

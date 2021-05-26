@@ -22,12 +22,12 @@
 <h2 align="left">Github stats :bar_chart:</h1>
 
 
-<p align="left">
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
-</p>
-<p align="left">
+
+
   ![Zulfizar's TOP languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdumurodovaZulfizar&theme=tokyonight)
-</p>
+
 
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_

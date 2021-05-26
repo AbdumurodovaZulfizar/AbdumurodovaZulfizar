@@ -19,10 +19,6 @@
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
-<h2 align="left">Github stats :bar_chart:</h1>
-
-
-
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
 
 

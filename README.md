@@ -18,8 +18,6 @@
  <a href="https://t.me/abdumurodova_zulfizar"> <img src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
 </p>
 
-<img  alt="GIF" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"/>
-
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_
 
@@ -42,9 +40,6 @@
  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)<br>
 
-<p align="center">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
-
-</p>
-

@@ -18,7 +18,7 @@
  <a href="https://t.me/abdumurodova_zulfizar"> <img src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
 </p>
 
-<img  alt="GIF" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" style="width: 50%;"/>
+<img  alt="GIF" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"/>
 
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_

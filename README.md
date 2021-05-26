@@ -19,10 +19,12 @@
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
-
+  
 
   ![Zulfizar's TOP languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdumurodovaZulfizar&theme=tokyonight)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
+
 
 
 ### 🛠 &nbsp;**Tech Stack**

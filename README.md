@@ -19,15 +19,12 @@
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" />
-<dev align="right">
-![Github](https://visitor-badge.laobi.icu/badge?page_id=AbdumurodovaZulfizar.AbdumurodovaZulfizar)
-![Github](https://img.shields.io/github/followers/AbdumurodovaZulfizar?label=Follow&style=social)](https://github.com/AbdumurodovaZulfizar)
+![](https://visitor-badge.laobi.icu/badge?page_id=AbdumurodovaZulfizar.AbdumurodovaZulfizar)
+![[Github](https://img.shields.io/github/followers/AbdumurodovaZulfizar?label=Follow&style=social)](https://github.com/AbdumurodovaZulfizar)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-</dev>
 
 ### 🛠 &nbsp;**Tech Stack**
 ### _Front End_

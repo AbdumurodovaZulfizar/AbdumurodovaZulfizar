@@ -19,20 +19,20 @@
 </p>
 
 ### 🛠 &nbsp;**Tech Stack**
-### _Front End_
+###  🧰 _Front End_
 
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
 
-### _Back End_
+###  🧰 _Back End_
 
  <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
  <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code>
  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;<br>
 
-### _Tools_
+### 🧰  _Tools_
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
@@ -41,7 +41,7 @@
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)<br>
 
 
-
+## :trophy: _My Github Stats:_
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdumurodovaZulfizar&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdumurodovaZulfizar&theme=tokyonight)

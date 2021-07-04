@@ -31,6 +31,7 @@
  <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
  <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code>
  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;<br>
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;<br>
 
 ###  _Tools_
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
